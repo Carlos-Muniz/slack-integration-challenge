@@ -1,0 +1,7 @@
+# dev.in
+
+-c base.in
+
+black
+pip-tools
+ruff
